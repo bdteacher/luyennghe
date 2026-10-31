@@ -1,0 +1,6 @@
+{
+  "name": "EduListen A1-A2 - Luyện Nghe Tiếng Anh Học Sinh",
+  "description": "Ứng dụng luyện kỹ năng nghe tiếng Anh trình độ A1 & A2 cho học sinh, lưu tiến trình học, nhắc nhở ôn tập hàng ngày và báo cáo tuần chi tiết. Tác giả: StevenBui (0982826817).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
